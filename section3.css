@@ -1,0 +1,46 @@
+
+.image1-grid {
+    display: grid;
+
+}
+
+
+
+.project1{
+    font-size:32px;
+    padding-left:20px;
+    margin-left: 25px;
+    font-family: 'Open Sans', sans-serif;
+    border-left: 6px solid #c90505; 
+
+}
+    
+
+.image1-row {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px; 
+    justify-content: space-around;
+   padding-right: 15px;
+   padding-left: 15px;
+  
+}
+
+.image1-container {
+    position: relative; 
+    margin:10px 5px;
+    border:5px double rgba(255, 255, 255, 0.6);
+    display:flex; 
+
+}
+.number{
+    display:flex;
+}
+.images1 {
+    display: block; 
+    max-width: 100%;
+border:2px;}
+.number{
+    display: block;
+}
+    

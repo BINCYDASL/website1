@@ -1,0 +1,40 @@
+.heading2{
+    font-size: 32px;
+    padding-left: 20px;
+    margin-left: 25px;
+    font-family: 'Open Sans', sans-serif;
+    border-left: 6px solid #c90505;
+    margin-top: 30PX;
+
+}
+
+
+
+.cntainer{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 40px;;
+    padding-right: 40px;
+   
+   
+}
+    
+
+.hd{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    color: #ebe9e9;
+    text-align: center;
+    text-transform: uppercase;
+}
+.para1{
+    width:450px;
+}
+.img img{
+    border: solid 4px;
+    border-color: rgba(0, 0, 0, 0.1);
+
+}
+
+
+

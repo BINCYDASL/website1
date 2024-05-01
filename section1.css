@@ -1,0 +1,23 @@
+.heading-welcome{
+    font-size: 30px;
+    color:#c90505;
+    padding-top: 3px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #616161;
+    font-weight:400;
+    position: relative;
+}
+.para-para1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    color: #616161;
+    font-weight: normal;
+    padding-top: 15px;
+    display: grid;
+    text-align: center;
+    background-color: #fff;
+}
+ 
+    
